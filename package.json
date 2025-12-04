@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@tsconfig/react-native": "^3.0.7"
+  },
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
