@@ -50,3 +50,12 @@ HackVerse is a smart web-based platform designed to assist students, parents, an
 
 ## 📂 Project Structure
 
+├── /frontend
+├── /backend
+├── /database
+├── /models
+├── /routes
+├── /controllers
+├── /assets
+└── README.md
+
