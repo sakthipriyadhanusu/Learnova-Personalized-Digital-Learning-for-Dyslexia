@@ -125,17 +125,9 @@ The **Personalized Digital Learning for Dyslexia** project successfully demonstr
 
 ## 📚 References
 
-1. Lyon, G. R., Shaywitz, S. E., & Shaywitz, B. A., *A Definition of Dyslexia*, Annals of Dyslexia, 2003.
+ 1.Prattipati Ganesh Prabhu; Polamarasetti Manju Sri; Nancy Noella R S "AR-VR Connectivity for Learning / Motivation for Dyslexia Kids" ,IEEE access, 2025.
+ 2.Maria Rauschenberger; Ricardo Baeza-Yates; Luz Rello "Screening Dyslexia Using Visual Auditory Computer Games and Machine Learning",IEEE access, Volume:13, pp:29541 - 29553 , 2025.
+ 3.Amirkhan Pinjari; Pavan Fulpagare; Vishal Patil; Khushi Mahale; Mohini Sanyashi "In-Depth Exploration of Advanced Machine Learning and Deep Learning Techniques for the Detection and Diagnosis of Dyslexia: A Comprehensive Review of Current Approaches, Challenge,    and Future Direction" ,IEEE access,2025
+ 4.R. Vaitheeshwari; Chih-Hsuan Chen; Chia-Ru Chung; Hsuan-Yu Yang; Shih-Ching Yeh; Eric Hsiao-Kuang Wu "Dyslexia Analysis and Diagnosis Based on Eye Movement",IEEE access,Volume: 32, pp:4109 - 4119, 2024.
 
-2. Snowling, M. J., *Dyslexia*, Blackwell Publishing, 2nd Edition, 2000.
-
-3. Smith, R., *An Overview of OCR Technology*, ICDAR Conference, 2007.
-
-4. Jurafsky, D., & Martin, J. H., *Speech and Language Processing*, Pearson Education, 2023.
-
-5. Vaswani, A. et al., *Attention Is All You Need*, NeurIPS, 2017.
-
-6. W3C, *Web Content Accessibility Guidelines (WCAG) 2.1*, 2018.
-
-7. Tesseract OCR Docume
 
