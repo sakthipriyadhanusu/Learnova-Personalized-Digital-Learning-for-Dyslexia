@@ -126,8 +126,14 @@ The **Personalized Digital Learning for Dyslexia** project successfully demonstr
 ## 📚 References
 
  1.Prattipati Ganesh Prabhu; Polamarasetti Manju Sri; Nancy Noella R S "AR-VR Connectivity for Learning / Motivation for Dyslexia Kids" ,IEEE access, 2025.
+
+ 
  2.Maria Rauschenberger; Ricardo Baeza-Yates; Luz Rello "Screening Dyslexia Using Visual Auditory Computer Games and Machine Learning",IEEE access, Volume:13, pp:29541 - 29553 , 2025.
+
+ 
  3.Amirkhan Pinjari; Pavan Fulpagare; Vishal Patil; Khushi Mahale; Mohini Sanyashi "In-Depth Exploration of Advanced Machine Learning and Deep Learning Techniques for the Detection and Diagnosis of Dyslexia: A Comprehensive Review of Current Approaches, Challenge,    and Future Direction" ,IEEE access,2025
+
+ 
  4.R. Vaitheeshwari; Chih-Hsuan Chen; Chia-Ru Chung; Hsuan-Yu Yang; Shih-Ching Yeh; Eric Hsiao-Kuang Wu "Dyslexia Analysis and Diagnosis Based on Eye Movement",IEEE access,Volume: 32, pp:4109 - 4119, 2024.
 
 
